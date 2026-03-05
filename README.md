@@ -1,1 +1,1 @@
-explicaciones y capturas de pantalla
+commit inicial
